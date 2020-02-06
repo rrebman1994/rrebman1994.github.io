@@ -1,2 +1,4 @@
-/* comment test */
-
+/* container centering */
+#container {
+  text-align: center;  
+}  
