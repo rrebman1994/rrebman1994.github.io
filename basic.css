@@ -1,4 +1,5 @@
 /* container centering */
-container {
-  text-align: center;  
-}  
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
