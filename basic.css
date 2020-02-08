@@ -16,5 +16,11 @@
 
 body {
 	background: url(background1.png);
-	color: orange;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
 }
+
+
